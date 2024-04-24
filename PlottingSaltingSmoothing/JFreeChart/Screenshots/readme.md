@@ -3,7 +3,7 @@ Screenshots of quadratic functions plotted, salted, and smoothed using JFreeChar
 Generated functions include: <br />
 &ensp;jfreefunction1.png - y = x^2 <br />
 &ensp;jfreefunction2.png - y = -x^2 + 25x + 400 <br />
-&ensp;jfreefunction3.png - y = x^2 + 25x + 400 <br />
+&ensp;jfreefunction3.png - y = x^2 + 45x + 400 <br />
 <br />
 Salted functions include: <br />
 &ensp;jfreesalt1.png - y = x^2 <br />
