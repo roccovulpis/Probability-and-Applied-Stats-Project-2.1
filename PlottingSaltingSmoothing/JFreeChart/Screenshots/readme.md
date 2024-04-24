@@ -1,16 +1,16 @@
-Screenshots of quadratic functions created using JFreeChart. <br />
+Screenshots of quadratic functions plotted, salted, and smoothed using JFreeChart. <br />
 <br />
 Generated functions include: <br />
-&ensp;function1.png - y = x^2 <br />
-&ensp;function4.png - y = -x^2 + 25x + 400 <br />
-&ensp;function5.png - y = x^2 + 25x + 400 <br />
+&ensp;jfreefunction1.png - y = x^2 <br />
+&ensp;jfreefunction2.png - y = -x^2 + 25x + 400 <br />
+&ensp;jfreefunction3.png - y = x^2 + 25x + 400 <br />
 <br />
 Salted functions include: <br />
-&ensp;salted1.png - y = x^2 <br />
-&ensp;salted2.png - y = -x^2 + 25x + 400 <br />
-&ensp;salted3.png - y = x^2 + 45x + 800 <br />
+&ensp;jfreesalt1.png - y = x^2 <br />
+&ensp;jfreesalt2.png - y = -x^2 + 25x + 400 <br />
+&ensp;jfreesalt3.png - y = x^2 + 45x + 800 <br />
 <br />
 Smooothed functions include: <br />
-&ensp;smoothed1.png - y = x^2 <br />
-&ensp;smoothed2.png - y = -x^2 + 25x + 400 <br />
-&ensp;smoothed3.png - y = x^2 + 45x + 800 <br />
+&ensp;jfreesmooth1.png - y = x^2 <br />
+&ensp;jfreesmooth2.png - y = -x^2 + 25x + 400 <br />
+&ensp;jfreesmooth3.png - y = x^2 + 45x + 800 <br />
