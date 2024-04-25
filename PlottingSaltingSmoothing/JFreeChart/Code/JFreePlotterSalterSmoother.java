@@ -16,7 +16,7 @@ import org.jfree.data.xy.XYSeriesCollection;
  * https://www.jfree.org/jfreechart/api/javadoc/index.html
  * https://www.codejava.net/java-se/graphics/using-jfreechart-to-draw-xy-line-chart-with-xydataset
  * https://www.youtube.com/watch?v=5o3fMLPY7qY
- * References: https://github.com/roccovulpis/Probability-and-Applied-Stats-Project-2/tree/f54ca2eddf404608e995c81af324c2688d1f2072/PlottingSaltingSmoothing/Java/Code
+ * https://github.com/roccovulpis/Probability-and-Applied-Stats-Project-2/tree/f54ca2eddf404608e995c81af324c2688d1f2072/PlottingSaltingSmoothing/Java/Code
  */
 
 /**
@@ -191,7 +191,7 @@ public class JFreePlotterSalterSmoother extends JFrame{
 	 */
 
 	public void smoothValues(int numberOfRuns, int windowValue) {
-		
+
 		// Smoothes the ArrayList of y values by the specified number of runs.
 		for (int i = 0; i < numberOfRuns; i++) {
 			// Loops through x values.
